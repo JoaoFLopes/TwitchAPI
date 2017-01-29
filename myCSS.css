@@ -1,0 +1,35 @@
+.link-unstyled {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.link-unstyled:link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.link-unstyled:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.small-image{
+    max-width: 50px;
+    border: solid 1px;
+}
+
+.box {
+    border: solid 1px;
+    padding: 1%;
+}
+.offline{
+    background-color: firebrick;
+}
+.online{
+    background-color: dodgerblue;
+}
+
